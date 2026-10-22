@@ -4,7 +4,7 @@ title: "Code and data for: Maritime exposure and latitude control different comp
 version: 1.0.0
 date-released: 2026-11-01
 license: MIT
-repository-code: "https://github.com/USUARIO/s3-solar-predictability-brazil"
+repository-code: "https://github.com/ferncane-debug/s3-solar-predictability-brazil"
 keywords: [solar irradiance, predictability, NASA POWER, machine learning, Brazil, climatology, MARS, Hargreaves-Samani]
 authors:
   - family-names: Caneppele
@@ -38,5 +38,5 @@ authors:
     orcid: "https://orcid.org/0000-0001-8352-7462"
   - family-names: Godinho
     given-names: Emmanuel Zullo
-    affiliation: "AFFILIATION MISSING"
+    affiliation: "University of São Paulo (USP), FZEA, Pirassununga, Brazil"
     orcid: "https://orcid.org/0000-0001-5281-6608"
