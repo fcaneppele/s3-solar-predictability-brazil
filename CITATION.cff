@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this software record."
+title: "Code and data for: Maritime exposure and latitude control different components of daily solar irradiance predictability across Brazil"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/USUARIO/s3-solar-predictability-brazil"
+keywords: [solar irradiance, predictability, NASA POWER, machine learning, Brazil, climatology, MARS, Hargreaves-Samani]
+authors:
+  - family-names: Caneppele
+    given-names: Fernando de Lima
+    affiliation: "University of São Paulo (USP), FZEA, Pirassununga, Brazil"
+    orcid: "https://orcid.org/0000-0003-4498-8682"
+    email: caneppele@usp.br
+  - family-names: Tieghi
+    given-names: Camila Piacitelli
+    affiliation: "Faculty of Technology of Botucatu (FATEC Botucatu), Brazil"
+    orcid: "https://orcid.org/0000-0001-8060-5373"
+  - family-names: Almeida
+    given-names: Carlos Frederico Meschini
+    affiliation: "University of São Paulo (USP), São Paulo, Brazil"
+    orcid: "https://orcid.org/0000-0002-4925-7531"
+  - family-names: Nogueira
+    given-names: Carlos Eduardo Camargo
+    affiliation: "Western Paraná State University (UNIOESTE), Cascavel, Brazil"
+    orcid: "https://orcid.org/0000-0003-3886-9118"
+  - family-names: Siqueira
+    given-names: Jair Antonio Cruz
+    affiliation: "Western Paraná State University (UNIOESTE), Cascavel, Brazil"
+    orcid: "https://orcid.org/0000-0002-8140-444X"
+  - family-names: Frigo
+    given-names: Murilo Miceno
+    affiliation: "Federal Institute of Mato Grosso do Sul (IFMS), Três Lagoas, Brazil"
+    orcid: "https://orcid.org/0000-0002-2499-7592"
+  - family-names: Malagueta
+    given-names: Diego Cunha
+    affiliation: "Federal University of Rio de Janeiro (UFRJ), Macaé, Brazil"
+    orcid: "https://orcid.org/0000-0001-8352-7462"
+  - family-names: Godinho
+    given-names: Emmanuel Zullo
+    affiliation: "AFFILIATION MISSING"
+    orcid: "https://orcid.org/0000-0001-5281-6608"

@@ -1,0 +1,58 @@
+{
+  "title": "Code and data for: Maritime exposure and latitude control different components of daily solar irradiance predictability across Brazil",
+  "upload_type": "software",
+  "description": "<p>Python pipeline, NASA POWER daily data (2013–2023, eleven Brazilian state capitals) and result tables supporting the article submitted to Theoretical and Applied Climatology. A single notebook reproduces all tables and figures: six regression models (RF, GBT, SVM, ANN, MARS, CART), walk-forward validation (test years 2018–2023), climatology and Hargreaves–Samani references, and the seasonal–synoptic decomposition of explained variance.</p><p>Funding: National Council for Scientific and Technological Development (CNPq), Brazil, Grant 401718/2023-9 (CNPq/MCTI Call No. 10/2023, Category A, Emerging Groups). Data: NASA Langley Research Center POWER Project.</p>",
+  "creators": [
+    {
+      "name": "Caneppele, Fernando de Lima",
+      "affiliation": "University of São Paulo (USP), FZEA, Pirassununga, Brazil",
+      "orcid": "0000-0003-4498-8682"
+    },
+    {
+      "name": "Tieghi, Camila Piacitelli",
+      "affiliation": "Faculty of Technology of Botucatu (FATEC Botucatu), Brazil",
+      "orcid": "0000-0001-8060-5373"
+    },
+    {
+      "name": "Almeida, Carlos Frederico Meschini",
+      "affiliation": "University of São Paulo (USP), São Paulo, Brazil",
+      "orcid": "0000-0002-4925-7531"
+    },
+    {
+      "name": "Nogueira, Carlos Eduardo Camargo",
+      "affiliation": "Western Paraná State University (UNIOESTE), Cascavel, Brazil",
+      "orcid": "0000-0003-3886-9118"
+    },
+    {
+      "name": "Siqueira, Jair Antonio Cruz",
+      "affiliation": "Western Paraná State University (UNIOESTE), Cascavel, Brazil",
+      "orcid": "0000-0002-8140-444X"
+    },
+    {
+      "name": "Frigo, Murilo Miceno",
+      "affiliation": "Federal Institute of Mato Grosso do Sul (IFMS), Três Lagoas, Brazil",
+      "orcid": "0000-0002-2499-7592"
+    },
+    {
+      "name": "Malagueta, Diego Cunha",
+      "affiliation": "Federal University of Rio de Janeiro (UFRJ), Macaé, Brazil",
+      "orcid": "0000-0001-8352-7462"
+    },
+    {
+      "name": "Godinho, Emmanuel Zullo",
+      "affiliation": "AFFILIATION MISSING",
+      "orcid": "0000-0001-5281-6608"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "solar irradiance",
+    "predictability",
+    "NASA POWER",
+    "machine learning",
+    "Brazil",
+    "climatology"
+  ],
+  "notes": "Derived tables are released under CC BY 4.0. NASA POWER data are public; see https://power.larc.nasa.gov for the data acknowledgement."
+}
