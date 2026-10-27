@@ -1,0 +1,12 @@
+# Environment used for the archived results (Python 3.10)
+numpy==1.23.5
+scipy==1.10.1
+pandas==2.3.3
+scikit-learn==1.2.2
+matplotlib>=3.7
+joblib>=1.2
+global-land-mask==1.0.0
+# MARS: vendored py-earth, compile with: cd vendor/py-earth && python setup.py build_ext --inplace --cythonize
+cython<3
+setuptools<70
+wheel

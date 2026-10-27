@@ -13,3 +13,8 @@ Thumbs.db
 .env
 credenciais*
 senhas*
+
+# compiled MARS extension (rebuilt by the notebook)
+vendor/py-earth/pyearth/*.c
+vendor/py-earth/pyearth/*.so
+vendor/py-earth/pyearth/*.pyd
